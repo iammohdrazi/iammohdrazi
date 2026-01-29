@@ -69,7 +69,24 @@
 
 ---
 
+## 🧠 Developer Identity
+
+**Builder • Systems Thinker • Automation Enthusiast**
+
+I focus on:
+
+* Writing tools that other developers *actually enjoy using*
+* Designing systems that scale in complexity, not chaos
+* Automating the boring parts so humans can think
+
+---
+
 ## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammohdrazi&repo=debugsnacks&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammohdrazi&repo=System-Report&theme=github_dark" />
+</p>
 
 ### 🧪 Developer Tooling & Automation
 
@@ -120,6 +137,42 @@ I enjoy building **frameworks**, not just scripts — things that grow over time
 ---
 
 ## 🧭 Current Focus
+
+* 🔥 Designing **framework-level Python packages**
+* 🔥 CLI tools with rich visuals & DX
+* 🔥 Code-generation for legacy systems
+* 🔥 AI-assisted developer productivity
+* 🔥 Building tools that feel *solid*, not hacky
+
+---
+
+## 🎯 Recruiter Snapshot
+
+* 💡 Strong problem-solving mindset
+* ⚙️ Comfortable with low-level + high-level systems
+* 🧪 Writes testable, maintainable code
+* 🚀 Ships working software, not just ideas
+* 🤝 Works well in collaborative engineering teams
+
+---
+
+## 🎮 Fun / Hacker Zone
+
+```text
+while (alive):
+    build()
+    break_things()
+    fix_them_better()
+```
+
+Things I enjoy:
+
+* Retro games & terminal aesthetics
+* Digging into undocumented behavior
+* Turning side-projects into real tools
+* Making developer life easier
+
+---
 
 * 🔥 Building polished Python packages (PyPI-ready)
 * 🔥 Advanced code generation systems
