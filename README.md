@@ -103,6 +103,3 @@ build → break → understand → rebuild (better)
 
 ---
 
-<p align="center">
-  <i>Clean visuals, real engineering.</i>
-</p>
