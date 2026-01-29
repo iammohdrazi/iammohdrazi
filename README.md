@@ -72,7 +72,7 @@ I prefer building foundations that can grow instead of one-off scripts.
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammohdrazi&show_icons=true&theme=github_dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iammohdrazi&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub stats" />
 </p>
 
 > I care more about tools that last than demos that impress.
