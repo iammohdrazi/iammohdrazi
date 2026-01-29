@@ -1,24 +1,27 @@
-# Mohammad Razi (@iammohdrazi)
+<h1 align="center">Mohammad Razi</h1>
+<p align="center">Software Developer · Systems & Tooling · AI Enthusiast</p>
 
-Software developer focused on building practical tools, automation frameworks, and system-level utilities.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+tools+that+age+well;Frameworks+over+scripts;Automation+first+mindset;Exploring+AI+for+developer+productivity" />
+</p>
 
 ---
 
 ## About
 
-I enjoy working on problems where code needs to scale in **complexity and longevity**, not just features.
-Most of my work revolves around:
+I’m a developer who enjoys working close to **systems, tooling, and automation**.
+I like solving problems where structure, maintainability, and long-term usability matter more than quick wins.
 
-* Developer tooling and automation
-* Python-based frameworks and utilities
-* C/C++ code generation and system-level workflows
-* Cross-platform (Linux / Windows) projects
+My work often sits at the intersection of:
 
-I prefer building **frameworks over scripts** and tools that can evolve over time.
+* Developer experience (DX)
+* Automation and frameworks
+* System-level workflows
+* Practical use of AI to assist developers
 
 ---
 
-## Skills
+## Skills & Interests
 
 **Languages**
 
@@ -28,55 +31,66 @@ I prefer building **frameworks over scripts** and tools that can evolve over tim
 * JavaScript
 * Shell scripting
 
-**Areas**
+**What I Work On**
 
-* System automation
-* Backend & tooling
-* Code parsing and generation
-* Test frameworks
-* CLI utilities
+* Developer tools and CLI utilities
+* Code parsing and generation systems
+* Backend utilities and dashboards
+* Cross-platform (Linux / Windows) automation
+* Test frameworks and build pipelines
 
-**Tools**
+**AI Enthusiast (Practical, Not Hype)**
 
-* Git, GitHub
-* Linux / Windows internals
-* Flask
-* REST APIs
-* CI/CD with GitHub Actions
+* Using AI to assist debugging and tooling
+* Exploring AI-assisted code generation
+* Productivity-focused AI workflows
+* Interested in where AI *actually* helps engineers
 
 ---
 
 ## Selected Work
 
-Some representative areas of work across my repositories:
+Across my repositories you’ll find:
 
-* Python debugging and developer utility packages
-* Automated system reporting dashboards
+* Python packages for debugging and automation
+* System reporting and monitoring dashboards
 * Windows log and crash collection tools
 * C/C++ header and source generation frameworks
 * Template-driven test case generation
 * CLI-based visual and loader experiments
 
-(See repositories for implementation details and evolution of these projects.)
+I prefer building foundations that can be extended rather than one-off scripts.
+
+---
+
+## GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iammohdrazi&show_icons=true&theme=github_dark&hide_title=true" />
+</p>
+
+---
+
+## Fun (But True)
+
+```text
+build → break → understand → rebuild (better)
+```
+
+* Enjoys terminal aesthetics and clean CLIs
+* Likes digging into edge cases and internals
+* Prefers boring, reliable solutions over clever hacks
+* Believes good tools should feel obvious to use
 
 ---
 
 ## Current Focus
 
-* Designing maintainable Python packages
-* Improving developer experience (DX)
-* Automation for repetitive engineering tasks
-* Code generation for legacy and large codebases
-* Exploring AI-assisted developer workflows
-
----
-
-## Working Style
-
-* Thinks in systems, not just features
-* Values clarity, structure, and extensibility
-* Prefers simple designs that age well
-* Focused on shipping usable software
+* Polished, maintainable Python packages
+* Framework-level automation
+* Developer productivity tooling
+* AI-assisted workflows that save real time
+* Cross-platform engineering problems
 
 ---
 
@@ -87,4 +101,4 @@ Some representative areas of work across my repositories:
 
 ---
 
-This profile is intentionally kept concise. Repositories contain detailed implementations and experiments.
+This profile balances personality with clarity. Details live in the repositories.
