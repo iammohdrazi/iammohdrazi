@@ -2,7 +2,12 @@
 <p align="center">Software Developer · Systems & Tooling · AI Enthusiast</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Building+tools+that+age+well;Frameworks+over+scripts;Automation+first+mindset;Exploring+AI+for+developer+productivity" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&pause=700&center=true&vCenter=true&width=650&lines=Building+tools+that+age+well;Frameworks+over+scripts;Automation-first+engineering;AI+for+real+developer+productivity" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/iammohdrazi?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/iammohdrazi?label=Stars&style=flat" />
 </p>
 
 ---
@@ -10,14 +15,13 @@
 ## About
 
 I’m a developer who enjoys working close to **systems, tooling, and automation**.
-I like solving problems where structure, maintainability, and long-term usability matter more than quick wins.
+I like problems where structure, maintainability, and long-term usability matter more than quick wins.
 
-My work often sits at the intersection of:
+I mostly work at the intersection of:
 
-* Developer experience (DX)
-* Automation and frameworks
-* System-level workflows
-* Practical use of AI to assist developers
+* 🧩 Developer experience and tooling
+* ⚙️ Automation and reusable frameworks
+* 🧠 Practical applications of AI in engineering
 
 ---
 
@@ -25,13 +29,13 @@ My work often sits at the intersection of:
 
 **Languages**
 
-* Python
-* C / C++
-* Java
-* JavaScript
-* Shell scripting
+* 🐍 Python
+* ⚙️ C / C++
+* ☕ Java
+* 🌐 JavaScript
+* 🖥️ Shell scripting
 
-**What I Work On**
+**What I Build**
 
 * Developer tools and CLI utilities
 * Code parsing and generation systems
@@ -39,12 +43,11 @@ My work often sits at the intersection of:
 * Cross-platform (Linux / Windows) automation
 * Test frameworks and build pipelines
 
-**AI Enthusiast (Practical, Not Hype)**
+**AI Enthusiast (Practical Focus)**
 
-* Using AI to assist debugging and tooling
-* Exploring AI-assisted code generation
-* Productivity-focused AI workflows
-* Interested in where AI *actually* helps engineers
+* 🤖 AI-assisted debugging and tooling
+* 🧠 AI-driven code generation experiments
+* ⏱️ Productivity-focused AI workflows
 
 ---
 
@@ -52,14 +55,14 @@ My work often sits at the intersection of:
 
 Across my repositories you’ll find:
 
-* Python packages for debugging and automation
-* System reporting and monitoring dashboards
-* Windows log and crash collection tools
-* C/C++ header and source generation frameworks
-* Template-driven test case generation
-* CLI-based visual and loader experiments
+* 🧪 Python packages for debugging and automation
+* 📊 System reporting and monitoring dashboards
+* 🪟 Windows log and crash collection tools
+* ⚙️ C/C++ header and source generation frameworks
+* 🧩 Template-driven test case generation
+* 🎮 CLI-based visual and loader experiments
 
-I prefer building foundations that can be extended rather than one-off scripts.
+I prefer building foundations that can grow instead of one-off scripts.
 
 ---
 
@@ -67,6 +70,10 @@ I prefer building foundations that can be extended rather than one-off scripts.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iammohdrazi&show_icons=true&theme=github_dark&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammohdrazi&theme=github-compact" />
 </p>
 
 ---
@@ -77,20 +84,20 @@ I prefer building foundations that can be extended rather than one-off scripts.
 build → break → understand → rebuild (better)
 ```
 
-* Enjoys terminal aesthetics and clean CLIs
-* Likes digging into edge cases and internals
-* Prefers boring, reliable solutions over clever hacks
-* Believes good tools should feel obvious to use
+* ✨ Enjoys terminal aesthetics and clean CLIs
+* 🔍 Likes digging into edge cases and internals
+* 🧱 Prefers boring, reliable solutions over clever hacks
+* 🎯 Believes good tools should feel obvious to use
 
 ---
 
 ## Current Focus
 
-* Polished, maintainable Python packages
-* Framework-level automation
-* Developer productivity tooling
-* AI-assisted workflows that save real time
-* Cross-platform engineering problems
+* 🚀 Polished, maintainable Python packages
+* 🧩 Framework-level automation
+* 🧠 Developer productivity tooling
+* 🤖 AI-assisted workflows that save real time
+* 🌍 Cross-platform engineering problems
 
 ---
 
@@ -101,4 +108,6 @@ build → break → understand → rebuild (better)
 
 ---
 
-This profile balances personality with clarity. Details live in the repositories.
+<p align="center">
+  <i>Balanced visuals, real engineering.</i>
+</p>
