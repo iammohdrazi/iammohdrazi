@@ -2,12 +2,15 @@
 <p align="center">Software Developer · Systems & Tooling · AI Enthusiast</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&pause=700&center=true&vCenter=true&width=650&lines=Building+tools+that+age+well;Frameworks+over+scripts;Automation-first+engineering;AI+for+real+developer+productivity" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2600&pause=700&center=true&vCenter=true&width=680&lines=Building+tools+that+age+well;Frameworks+over+scripts;Automation-first+engineering;Practical+AI+for+developers" />
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iammohdrazi&label=Views&style=flat" />
   <img src="https://img.shields.io/github/followers/iammohdrazi?label=Followers&style=flat" />
   <img src="https://img.shields.io/github/stars/iammohdrazi?label=Stars&style=flat" />
+  <img src="https://img.shields.io/github/forks/iammohdrazi/iammohdrazi?label=Forks&style=flat" />
+  <img src="https://img.shields.io/github/last-commit/iammohdrazi/iammohdrazi?label=Last%20Commit&style=flat" />
 </p>
 
 ---
@@ -109,5 +112,5 @@ build → break → understand → rebuild (better)
 ---
 
 <p align="center">
-  <i>Balanced visuals, real engineering.</i>
+  <i>Clean visuals, real engineering.</i>
 </p>
