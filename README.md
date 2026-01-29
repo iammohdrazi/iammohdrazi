@@ -1,204 +1,90 @@
-# 👋 Hi, I'm Mohammad Razi (@iammohdrazi)
+# Mohammad Razi (@iammohdrazi)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+ideas+into+tools;Building+with+code+every+day;Open+Source+Enthusiast;Learning+Never+Stops" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iammohdrazi&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/iammohdrazi?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/iammohdrazi?label=Stars&style=flat" />
-</p>
+Software developer focused on building practical tools, automation frameworks, and system-level utilities.
 
 ---
 
-## 🌍 About Me
+## About
 
-* 👨‍💻 Passionate **Software Developer & Builder**
-* 🧠 Love solving real-world problems using **code + automation**
-* 🛠️ Enjoy working on **Python tools, C/C++ systems, backend utilities, and developer tooling**
-* 🌱 Constantly learning — from low-level systems to AI-driven ideas
-* 💬 Believe in *"build first, perfect later"*
-* 📍 India
+I enjoy working on problems where code needs to scale in **complexity and longevity**, not just features.
+Most of my work revolves around:
+
+* Developer tooling and automation
+* Python-based frameworks and utilities
+* C/C++ code generation and system-level workflows
+* Cross-platform (Linux / Windows) projects
+
+I prefer building **frameworks over scripts** and tools that can evolve over time.
 
 ---
 
-## 🧰 Tech Stack & Skills
+## Skills
 
-### 💻 Languages
+**Languages**
 
-* Python 🐍
-* C / C++ ⚙️
-* Java ☕
-* JavaScript 🌐
-* Bash / Shell
+* Python
+* C / C++
+* Java
+* JavaScript
+* Shell scripting
 
-### 🧩 Domains I Work In
+**Areas**
 
-* 🔹 System Programming & Automation
-* 🔹 Developer Tools & CLI Utilities
-* 🔹 Backend Development
-* 🔹 AI-assisted tooling
-* 🔹 Code Generation & Parsing
-* 🔹 Testing Frameworks & Automation
+* System automation
+* Backend & tooling
+* Code parsing and generation
+* Test frameworks
+* CLI utilities
 
-### 🛠 Tools & Technologies
+**Tools**
 
-* Git & GitHub
-* Linux & Windows Internals
+* Git, GitHub
+* Linux / Windows internals
 * Flask
 * REST APIs
-* JSON / Excel-driven automation
-* CI/CD (GitHub Actions)
+* CI/CD with GitHub Actions
 
 ---
 
-## 📊 GitHub Analytics
+## Selected Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammohdrazi&show_icons=true&theme=github_dark&count_private=true" />
-</p>
+Some representative areas of work across my repositories:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammohdrazi&theme=github-dark" />
-</p>
+* Python debugging and developer utility packages
+* Automated system reporting dashboards
+* Windows log and crash collection tools
+* C/C++ header and source generation frameworks
+* Template-driven test case generation
+* CLI-based visual and loader experiments
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammohdrazi&layout=compact&theme=github_dark" />
-</p>
-
----
-
-## 🧠 Developer Identity
-
-**Builder • Systems Thinker • Automation Enthusiast**
-
-I focus on:
-
-* Writing tools that other developers *actually enjoy using*
-* Designing systems that scale in complexity, not chaos
-* Automating the boring parts so humans can think
+(See repositories for implementation details and evolution of these projects.)
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammohdrazi&repo=debugsnacks&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iammohdrazi&repo=System-Report&theme=github_dark" />
-</p>
-
-### 🧪 Developer Tooling & Automation
-
-* **DebugSnacks** – A Python debugging and developer utility package
-* **System Report Dashboard** – Flask-based system monitoring dashboard
-* **Log Collector (Windows)** – Automated crash & log collection tool
-
-### ⚙️ C/C++ Code Generation Framework
-
-* Automated parsing of functions, structs, unions, enums
-* Header & source generation for Linux (.so) and Windows (.dll)
-* Template-based persistent file updates
-* JSON & Excel driven configuration
-
-### 🎮 CLI & Visual Experiments
-
-* CLI-based visual loaders
-* Terminal animations inspired by classic games
-* Python-powered ASCII visuals
-
-### 📚 Learning & Knowledge Repos
-
-* Udacity Nanodegree collections
-* PyTorch basics
-* Java learning projects
+* Designing maintainable Python packages
+* Improving developer experience (DX)
+* Automation for repetitive engineering tasks
+* Code generation for legacy and large codebases
+* Exploring AI-assisted developer workflows
 
 ---
 
-## 🧠 Project Philosophy
+## Working Style
 
-> *"If a task is repetitive, automate it.
-> If code can generate code, let it.
-> If it can be simpler, refactor it."*
-
-I enjoy building **frameworks**, not just scripts — things that grow over time and adapt to new requirements.
-
----
-
-## 🗂️ Repository Categories
-
-* 🧰 Utilities & Tools
-* 🧪 Experiments & Proof-of-Concepts
-* 📦 Python Packages
-* ⚙️ System-Level Projects
-* 📊 Dashboards & Automation
-* 🎓 Learning & Practice
+* Thinks in systems, not just features
+* Values clarity, structure, and extensibility
+* Prefers simple designs that age well
+* Focused on shipping usable software
 
 ---
 
-## 🧭 Current Focus
+## Links
 
-* 🔥 Designing **framework-level Python packages**
-* 🔥 CLI tools with rich visuals & DX
-* 🔥 Code-generation for legacy systems
-* 🔥 AI-assisted developer productivity
-* 🔥 Building tools that feel *solid*, not hacky
+* GitHub: [https://github.com/iammohdrazi](https://github.com/iammohdrazi)
+* LinkedIn: [https://www.linkedin.com/in/mohammad-razi-aba49b17a](https://www.linkedin.com/in/mohammad-razi-aba49b17a)
 
 ---
 
-## 🎯 Recruiter Snapshot
-
-* 💡 Strong problem-solving mindset
-* ⚙️ Comfortable with low-level + high-level systems
-* 🧪 Writes testable, maintainable code
-* 🚀 Ships working software, not just ideas
-* 🤝 Works well in collaborative engineering teams
-
----
-
-## 🎮 Fun / Hacker Zone
-
-```text
-while (alive):
-    build()
-    break_things()
-    fix_them_better()
-```
-
-Things I enjoy:
-
-* Retro games & terminal aesthetics
-* Digging into undocumented behavior
-* Turning side-projects into real tools
-* Making developer life easier
-
----
-
-* 🔥 Building polished Python packages (PyPI-ready)
-* 🔥 Advanced code generation systems
-* 🔥 Developer experience (DX) tools
-* 🔥 Cross-platform automation
-* 🔥 AI-assisted developer workflows
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/mohammad-razi-aba49b17a](https://www.linkedin.com/in/mohammad-razi-aba49b17a)
-* 💻 GitHub: [https://github.com/iammohdrazi](https://github.com/iammohdrazi)
-
----
-
-## 📌 Fun Facts
-
-* 🧩 I like digging into edge cases
-* 🖥️ I enjoy working close to the OS
-* 🧠 I think frameworks > scripts
-* 🚀 I love shipping things
-
----
-
-<p align="center">
-  <b>✨ Thanks for visiting my profile ✨</b><br/>
-  <i>Feel free to explore, fork, star, or collaborate!</i>
-</p>
+This profile is intentionally kept concise. Repositories contain detailed implementations and experiments.
