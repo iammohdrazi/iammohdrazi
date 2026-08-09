@@ -5,7 +5,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:7C3AED&height=120&section=header&text=Mohammad%20Razi&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Systems%20%26%20Tooling%20%7C%20AI%20Engineering%20%7C%20Open%20Source&descAlignY=58&descSize=16&descColor=C9D1D9" />
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00FFB3&center=true&vCenter=true&width=720&lines=⚙️+Systems+%26+Tooling+Engineer;🤖+AI-Assisted+Development+Specialist;🐍+Python+Package+Architect;🔬+Process+Observability+%26+Telemetry;🧠+Automation-First+Engineering;🛠️+Building+tools+that+age+well" alt="Typing SVG" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Systems+%26+AI+Tooling;Building+tools+that+last"
+    alt="Typing SVG"
+  />
+</p>
 
 <!-- Badges Row -->
 <p>
