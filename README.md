@@ -6,7 +6,12 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer%3BSystems+%26+AI+Tooling%3BBuilding+tools+that+last" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Systems+%26+AI+Tooling;Building+tools+that+last"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <!-- Badges Row -->
